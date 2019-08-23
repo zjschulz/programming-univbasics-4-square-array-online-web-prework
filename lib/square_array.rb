@@ -5,4 +5,5 @@ square[]
     puts numbers[counter]
     counter += 1
   end
+  square[counter]
 end
