@@ -5,5 +5,5 @@ square[]
     square[counter] = numbers[counter] ** 2
     counter += 1
   end
-  square[counter]
+  square
 end
