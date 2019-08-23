@@ -5,5 +5,4 @@ counter = 0
     puts numbers[counter]
     counter += 1
   end
-    puts numbers[counter]
 end
